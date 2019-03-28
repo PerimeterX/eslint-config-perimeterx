@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-perimeterx",
+  "version": "0.1.0",
+  "description": "PerimeterX default eslint config",
+  "main": "index.js",
+  "keywords": [
+    "perimeterx",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Yaron Schwimmer",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 5"
+  }
+}
