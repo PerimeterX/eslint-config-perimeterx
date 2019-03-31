@@ -1,7 +1,15 @@
 {
   "name": "eslint-config-perimeterx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PerimeterX default eslint config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerimeterX/eslint-config-perimeterx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PerimeterX/eslint-config-perimeterx/issues"
+  },
+  "homepage": "https://github.com/PerimeterX/eslint-config-perimeterx#readme",
   "main": "index.js",
   "keywords": [
     "perimeterx",
