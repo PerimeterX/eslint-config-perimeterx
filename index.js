@@ -42,7 +42,8 @@ module.exports = {
         "no-useless-concat": ["error"],
         "no-with": ["error"],
         "object-curly-spacing": ["error", "never"],
-        "array-bracket-spacing": ["error", "never"]
+        "array-bracket-spacing": ["error", "never"],
+        "keyword-spacing": ["error"]
     }
 };
 
