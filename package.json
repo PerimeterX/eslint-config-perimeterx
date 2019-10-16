@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-perimeterx",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "PerimeterX default eslint config",
   "repository": {
     "type": "git",
