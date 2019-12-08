@@ -45,7 +45,8 @@ module.exports = {
         "no-with": ["error"],
         "object-curly-spacing": ["error", "never"],
         "array-bracket-spacing": ["error", "never"],
-        "keyword-spacing": ["error"]
+        "keyword-spacing": ["error"],
+        "arrow-spacing": ["error"]
     }
 };
 
